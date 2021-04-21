@@ -2,6 +2,7 @@
 # telephony_example
 
 Demonstrates how to use the telephony plugin.
+Readmore here: https://shounakmulay.gitbook.io/telephony/
 
 ## Getting Started
 
